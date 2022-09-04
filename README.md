@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @webengrg
-- 👀 I’m interested in Custom Software Development
+- 👀 I’m interested in Custom Website Development
 - 🌱 I’m Web Application Developer ...
 - 📫 How to reach me https://www.digitalcapra.com/
 
