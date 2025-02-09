@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamidkodez
-- 👀 I’m interested in Custom Website Development
+- 👀 I’m interested in Custom Website Development, PHP, Laravel, Magento, Ecommerce Data Scraping
 - 🌱 I’m Web Application Developer ...
 <!--- - 📫 How to reach me https://www.digitalcapra.com/--->
 
