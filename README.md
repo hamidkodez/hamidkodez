@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=header&text=Syed%20Hamid%20Ali%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+PHP+%2F+Laravel+Developer;10%2B+Years+Building+Production+Systems;SaaS+%E2%80%A2+E-commerce+%E2%80%A2+Data+Pipelines;Open+to+Remote+%E2%80%94+US+%2F+EU+%2F+UK+%2F+UAE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+PHP+%2F+Laravel+Developer;10%2B+Years+Building+Production+Systems;SaaS+%E2%80%A2+E-commerce+%E2%80%A2+Data+Pipelines;Open+to+Remote+%E2%80%94+US+%2F+EU+%2F+UK+%2F+UAE)](https://hamidkodez.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamidkodez&color=0e75b6&style=flat-square&label=Profile+Views)
 &nbsp;
@@ -30,11 +30,11 @@ $hamid = [
     'targets'    => ['US', 'UK', 'EU', 'UAE', 'Canada', 'Australia'],
 
     'specialties' => [
-        'SaaS Platforms'       => 'Multi-tenant architecture, Stripe billing, RBAC',
-        'Data Pipelines'       => '500+ retailers · 50K daily SKU updates · 60% manual ops cut',
-        'E-commerce'           => 'Magento, custom Laravel, multi-vendor marketplaces',
-        'API Integrations'     => 'Payment gateways, CRMs, Google Merchant, FB Catalog',
-        'Compliance'           => 'HIPAA-compliant systems, GDPR, encrypted audit logs',
+        'SaaS Platforms'   => 'Multi-tenant architecture, Stripe billing, RBAC',
+        'Data Pipelines'   => '500+ retailers · 50K daily SKU updates · 60% manual ops cut',
+        'E-commerce'       => 'Magento, custom Laravel, multi-vendor marketplaces',
+        'API Integrations' => 'Payment gateways, CRMs, Google Merchant, FB Catalog',
+        'Compliance'       => 'HIPAA-compliant systems, GDPR, encrypted audit logs',
     ],
 
     'currently_building' => 'High-performance backends for international clients',
@@ -147,13 +147,9 @@ Automated pricing & inventory sync platform
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamidkodez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidkodez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamidkodez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&count_private=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidkodez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&cache_seconds=1800" />
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hamidkodez&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" />
 </div>
 
 ---
@@ -165,6 +161,7 @@ Automated pricing & inventory sync platform
 
 <div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+923352221264-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923352221264)
 [![Email](https://img.shields.io/badge/Email-hamidkodez404@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidkodez404@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidkodez)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamidkodez.com-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hamidkodez.com)
