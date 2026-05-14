@@ -147,8 +147,13 @@ Automated pricing & inventory sync platform
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamidkodez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&count_private=true&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidkodez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamidkodez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidkodez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
+
+<br/><br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hamidkodez&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)
 
 </div>
 
